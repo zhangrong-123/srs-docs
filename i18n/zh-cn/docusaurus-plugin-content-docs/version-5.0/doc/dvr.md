@@ -5,7 +5,7 @@ hide_title: false
 hide_table_of_contents: false
 ---
 
-# DVR
+# DVR牛马
 
 SRS支持将RTMP流录制成FLV或MP4文件。下面的描述以FLV为例，但是对MP4也是一样的。
 
